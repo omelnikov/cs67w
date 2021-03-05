@@ -1,0 +1,69 @@
+The degree Celsius is a unit of temperature on the Celsius scale, a temperature scale originally known as the centigrade scale. The degree Celsius (symbol: °C) can refer to a specific temperature on the Celsius scale or a unit to indicate a difference between two temperatures or an uncertainty. It is named after the Swedish astronomer Anders Celsius (1701–1744), who developed a similar temperature scale. Before being renamed to honor Anders Celsius in 1948, the unit was called centigrade, from the Latin centum, which means 100, and gradus, which means steps.
+Since 1743 the Celsius scale has been based on 0 °C for the freezing point of water and 100 °C for the boiling point of water at 1 atm pressure. Prior to 1743 the values were reversed (i.e. the boiling point was 0 degrees and the freezing point was 100 degrees). The 1743 scale reversal was proposed by Jean-Pierre Christin.
+By international agreement, between 1954 and 2019 the unit degree Celsius and the Celsius scale were defined by absolute zero and the triple point of Vienna Standard Mean Ocean Water (VSMOW), a precisely defined water standard. This definition also precisely related the Celsius scale to the Kelvin scale, which defines the SI base unit of thermodynamic temperature with symbol K. Absolute zero, the lowest temperature possible, is defined as being exactly 0 K and −273.15 °C. Until 19 May 2019, the temperature of the triple point of water was defined as exactly 273.16 K (0.01 °C). This means that a temperature difference of one degree Celsius and that of one kelvin are exactly the same.On 20 May 2019, the kelvin was redefined so that its value is now determined by the definition of the Boltzmann constant rather than being defined by the triple point of VSMOW. This means that the triple point is now a measured value, not a defined value. The newly-defined exact value of the Boltzmann constant was selected so that the measured value of the VSMOW triple point is exactly the same as the older defined value to within the limits of accuracy of contemporary metrology. The degree Celsius remains exactly equal to the kelvin, and 0 K remains exactly −273.15 °C.
+
+
+== History ==
+
+In 1742, Swedish astronomer Anders Celsius (1701–1744) created a temperature scale that was the reverse of the scale now known as "Celsius": 0 represented the boiling point of water, while 100 represented the freezing point of water. In his paper Observations of two persistent degrees on a thermometer, he recounted his experiments showing that the melting point of ice is essentially unaffected by pressure. He also determined with remarkable precision how the boiling point of water varied as a function of atmospheric pressure. He proposed that the zero point of his temperature scale, being the boiling point, would be calibrated at the mean barometric pressure at mean sea level. This pressure is known as one standard atmosphere. The BIPM's 10th General Conference on Weights and Measures (CGPM) later defined one standard atmosphere to equal precisely 1,013,250 dynes per square centimeter (101.325 kPa).In 1743, the Lyonnais physicist Jean-Pierre Christin, permanent secretary of the Académie des sciences, belles-lettres et arts de Lyon, inverted the celsius scale so that 0 represented the freezing point of water and 100 represented the boiling point of water. Some credit Christin for independently inventing the reverse of Celsius' original scale, while others believe Christin merely reversed Celsius' scale. On 19 May 1743 he published the design of a mercury thermometer, the "Thermometer of Lyon" built by the craftsman Pierre Casati that used this scale.In 1744, coincident with the death of Anders Celsius, the Swedish botanist Carl Linnaeus (1707–1778) reversed Celsius's scale. His custom-made "linnaeus-thermometer", for use in his greenhouses, was made by Daniel Ekström, Sweden's leading maker of scientific instruments at the time, whose workshop was located in the basement of the Stockholm observatory. As often happened in this age before modern communications, numerous physicists, scientists, and instrument makers are credited with having independently developed this same scale; among them were Pehr Elvius, the secretary of the Royal Swedish Academy of Sciences (which had an instrument workshop) and with whom Linnaeus had been corresponding; Daniel Ekström, the instrument maker; and Mårten Strömer (1707–1770) who had studied astronomy under Anders Celsius.
+The first known Swedish document reporting temperatures in this modern "forward" Celsius scale is the paper Hortus Upsaliensis dated 16 December 1745 that Linnaeus wrote to a student of his, Samuel Nauclér. In it, Linnaeus recounted the temperatures inside the orangery at the University of Uppsala Botanical Garden:
+
+...since the caldarium (the hot part of the greenhouse) by the angle of the windows, merely from the rays of the sun, obtains such heat that the thermometer often reaches 30 degrees, although the keen gardener usually takes care not to let it rise to more than 20 to 25 degrees, and in winter not under 15 degrees...
+
+
+=== Centigrade versus Celsius ===
+
+Since the 19th century, the scientific and thermometry communities worldwide have used the phrase "centigrade scale" and temperatures were often reported simply as "degrees" or, when greater specificity was desired, as "degrees centigrade", with the symbol °C.
+However, the term centigrade was also used in the Spanish and French languages as a unit of angular measurement (1/100 of a right angle), and it had a similar connotation in other languages. The term centesimal degree or gradian ("grad" or "gon": 100g = 90°, 1g = 0.9°) was used when unambiguous language was required by international standards bodies such as the BIPM. It would more properly now be called "hectograde".
+To eliminate confusion between the unit of temperature and the unit of angular measurement, the 9th meeting of the General Conference on Weights and Measures and the Comité International des Poids et Mesures (CIPM) formally adopted "degree Celsius" in 1948 for the degree of temperature, and kept the recognized degree symbol (°), rather than adopting the gradian/centesimal degree symbol (g or gon).For scientific use, "Celsius" is the term usually used, but in English-speaking countries "centigrade" remains in common  use, especially in informal contexts. It was not even until February 1985 that the weather forecasts issued by the BBC switched the term from "centigrade" to "Celsius".
+
+
+=== Common temperatures ===
+Some key temperatures relating the Celsius scale to other temperature scales are shown in the table below.
+
+
+== Name and symbol typesetting ==
+The "degree Celsius" has been the only SI unit whose full unit name contains an uppercase letter since 1967, when the SI base unit for temperature became the kelvin, replacing the capitalized term degrees Kelvin. The plural form is "degrees Celsius".The general rule of the International Bureau of Weights and Measures (BIPM) is that the numerical value always precedes the unit, and a space is always used to separate the unit from the number, e.g. "30.2 °C" (not "30.2°C" or "30.2° C"). The only exceptions to this rule are for the unit symbols for degree, minute, and second for plane angle (°, ′, and ″, respectively), for which no space is left between the numerical value and the unit symbol. Other languages, and various publishing houses, may follow different typographical rules.
+
+
+=== Unicode character ===
+Unicode provides the Celsius symbol at code point U+2103 ℃ DEGREE CELSIUS. However, this is a compatibility character provided for roundtrip compatibility with legacy encodings. It easily allows correct rendering for vertically written East Asian scripts, such as Chinese. The Unicode standard explicitly discourages the use of this character: "In normal use, it is better to represent degrees Celsius "°C" with a sequence of U+00B0 ° DEGREE SIGN + U+0043 C LATIN CAPITAL LETTER C, rather than U+2103 ℃ DEGREE CELSIUS. For searching, treat these two sequences as identical."
+
+
+== Temperatures and intervals ==
+The degree Celsius is subject to the same rules as the kelvin with regard to the use of its unit name and symbol. Thus, besides expressing specific temperatures along its scale (e.g. "Gallium melts at 29.7646 °C" and "The temperature outside is 23 degrees Celsius"), the degree Celsius is also suitable for expressing temperature intervals: differences between temperatures or their uncertainties (e.g. "The output of the heat exchanger is hotter by 40 degrees Celsius", and "Our standard uncertainty is ±3 °C"). Because of this dual usage, one must not rely upon the unit name or its symbol to denote that a quantity is a temperature interval; it must be unambiguous through context or explicit statement that the quantity is an interval. This is sometimes solved by using the symbol °C (pronounced "degrees Celsius") for a temperature, and C° (pronounced "Celsius degrees") for a temperature interval, although this usage is non-standard. Another way to express the same is "40 °C ± 3 K", which can be commonly found in literature.
+Celsius measurement follows an interval system but not a ratio system; and it follows a relative scale not an absolute scale. For example, an object at 20 °C does not have twice the energy of when it is 10 °C; and 0 °C is not the lowest Celsius value. Thus, degrees Celsius is a useful interval measurement but does not possess the characteristics of ratio measures like weight or distance.
+
+
+== Coexistence of Kelvin and Celsius scales ==
+In science and in engineering, the Celsius scale and the Kelvin scale are often used in combination in close contexts, e.g. "a measured value was 0.01023 °C with an uncertainty of 70 μK". This practice is permissible because the magnitude of the degree Celsius is equal to that of the kelvin. Notwithstanding the official endorsement provided by decision #3 of Resolution 3 of the 13th CGPM, which stated "a temperature interval may also be expressed in degrees Celsius", the practice of simultaneously using both °C and K remains widespread throughout the scientific world as the use of SI-prefixed forms of the degree Celsius (such as "μ°C" or "microdegrees Celsius") to express a temperature interval has not been well-adopted.
+
+
+== Melting and boiling points of water ==
+The melting and boiling points of water are no longer part of the definition of the Celsius scale. In 1948, the definition was changed to use the triple point of water. In 2005 the definition was further refined to use water with precisely defined isotopic composition (VSMOW) for the triple point. In 2019, the definition was changed to use the Boltzmann constant, completely decoupling the definition of the kelvin from the properties of water. Each of these formal definitions left the numerical values of the Celsius scale identical to the prior definition to within the limits of accuracy of the metrology of the time.
+When the melting and boiling points of water ceased being part of the definition, they became measured quantities instead. This is also true of the triple point. 
+In 1948 when the 9th General Conference on Weights and Measures (CGPM) in Resolution 3 first considered using the triple point of water as a defining point, the triple point was so close to being 0.01 °C greater than water's known melting point, it was simply defined as precisely 0.01 °C. However, later measurements showed that the difference between the triple and melting points of VSMOW is actually very slightly (<0.001 °C) greater than 0.01 °C. Thus, the actual melting point of ice is very slightly (less than a thousandth of a degree) below 0 °C. Also, defining water's triple point at 273.16 K precisely defined the magnitude of each 1 °C increment in terms of the absolute thermodynamic temperature scale (referencing absolute zero). Now decoupled from the actual boiling point of water, the value "100 °C" is hotter than 0 °C – in absolute terms – by a factor of precisely 373.15/273.15 (approximately 36.61% thermodynamically hotter). When adhering strictly to the two-point definition for calibration, the boiling point of VSMOW under one standard atmosphere of pressure was actually 373.1339 K (99.9839 °C). When calibrated to ITS-90 (a calibration standard comprising many definition points and commonly used for high-precision instrumentation), the boiling point of VSMOW was slightly less, about 99.974 °C.This boiling-point difference of 16.1 millikelvins between the Celsius scale's original definition and the previous one (based on absolute zero and the triple point) has little practical meaning in common daily applications because water's boiling point is very sensitive to variations in barometric pressure. For example, an altitude change of only 28 cm (11 in) causes the boiling point to change by one millikelvin.
+
+
+== See also ==
+Comparison of temperature scales
+Degree of frost
+ITS-90
+Réaumur scale
+Thermodynamic temperature
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+ The dictionary definition of Celsius at Wiktionary
+
+NIST, Basic unit definitions: Kelvin
+The Uppsala Astronomical Observatory, History of the Celsius temperature scale
+London South Bank University, Water, scientific data
+BIPM, SI brochure, section 2.1.1.5, Unit of thermodynamic temperature
+TAMPILE, Comparison of temperature scales
