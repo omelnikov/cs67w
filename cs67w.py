@@ -2,7 +2,7 @@ from IPython.core.interactiveshell import InteractiveShell as IS; IS.ast_node_in
 import numpy as np, pandas as pd, matplotlib.pylab as plt
 
 # Increase viewable area of Pandas tables, numpy arrays, plots
-pd.set_option('max_rows', 5, 'max_columns', 500, 'max_colwidth', 1, 'precision', 2)
+pd.set_option('max_rows', 5, 'max_columns', 500, 'max_colwidth', 1, 'precision', 2, 'display.width', 3000)
 np.set_printoptions(linewidth=10000, precision=4, edgeitems=20, suppress=True)
 plt.rcParams['figure.figsize'] = [16, 4]
 
